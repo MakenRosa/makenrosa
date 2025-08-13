@@ -1,7 +1,7 @@
 <!-- README-friendly: accessible + responsive, no external CSS required -->
 <div id="header" align="center">
   <h2>👋 Hello, world!</h2>
-  <p><strong>Eu sou o Maken Cristhian</strong> — 22 anos, formado em Análise e Desenvolvimento de Sistemas (Senac).
+  <p><strong>Eu sou o Maken Cristhian</strong> — 23 anos, formado em Análise e Desenvolvimento de Sistemas (Senac). Pós graduando em IA.
     Estou sempre em busca de aprendizado e crescimento, pessoal e profissional.</p>
   <p>Quer falar comigo? Use um dos botões abaixo. 👇</p>
 </div>
