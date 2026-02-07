@@ -1,54 +1,55 @@
-<!-- README-friendly: accessible + responsive, no external CSS required -->
-<div id="header" align="center">
-  <h2>👋 Hello, world!</h2>
-  <p><strong>Eu sou o Maken Cristhian</strong> — 23 anos, formado em Análise e Desenvolvimento de Sistemas (Senac). 
-    Pós graduando em IA.
-    Estou sempre em busca de aprendizado e crescimento, pessoal e profissional.</p>
-  <p>Quer falar comigo? Use um dos botões abaixo. 👇</p>
-</div>
+﻿# Maken Cristhian Faria da Rosa
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/maken-da-rosa-502920232/" aria-label="Abrir LinkedIn de Maken" rel="noopener noreferrer">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:maken.cristhian@gmail.com?subject=Contato%20via%20GitHub" aria-label="Enviar e-mail para Maken" rel="noopener noreferrer">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://wa.me/5548920017141?text=Ol%C3%A1%20Maken" aria-label="Chamar no WhatsApp" rel="noopener noreferrer">
-    <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-  </a>
-  <a href="https://www.instagram.com/cristhian_maken" aria-label="Abrir Instagram de Maken" rel="noopener noreferrer">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-</div>
+**Full-stack Developer + AI | LLM/RAG, AWS, React/TypeScript**
 
-<hr/>
+I build scalable web and AI solutions focused on measurable business impact.
 
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=MakenRosa&show_icons=true&hide=contribs,prs&theme=transparent&hide_border=true"
-    alt="Estatísticas do GitHub de Maken"
-    width="48%" loading="lazy" decoding="async">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MakenRosa&langs_count=8&layout=compact&hide=Less,SCSS&theme=transparent&hide_border=true"
-    alt="Linguagens mais usadas por Maken"
-    width="48%" loading="lazy" decoding="async">
-</div>
+## Quick Highlights
+- Reduced time-to-interaction by **80%+** in a critical migration from AngularJS to React/TypeScript.
+- Built an AI Level 1 support assistant resolving up to **50%** of tickets before human support.
+- Kept AI inference cost under **US$15/month** while scaling to hundreds of client operations.
+- Documented and evolved **30+** design-system components to increase consistency and delivery speed.
 
-<hr/>
+## Featured Projects
+- [makenrosa.github.io](https://github.com/MakenRosa/makenrosa.github.io) - Professional portfolio hub.
+- [topclean](https://github.com/MakenRosa/topclean) - Business website project (production-oriented case).
+- [CRM-TCS](https://github.com/MakenRosa/CRM-TCS) - Full-stack CRM (React + Django + PostgreSQL).
+- [java-openai](https://github.com/MakenRosa/java-openai) - Java integration with OpenAI API.
+- [little-green](https://github.com/MakenRosa/little-green) - ESG-oriented web application.
+- [portfolio](https://github.com/MakenRosa/portfolio) - Front-end foundation project.
 
-<div align="center">
-  <h3>Tech que uso no dia a dia</h3>
-  <p>
-    <img alt="React" title="React" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-    <img alt="JavaScript" title="JavaScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-    <img alt="TypeScript" title="TypeScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-    <img alt="CSS3" title="CSS3" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-    <img alt="Python" title="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-    <img alt="Java" title="Java" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-    <img alt="MySQL" title="MySQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-    <img alt="Photoshop" title="Photoshop" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
-    <img alt="Git" title="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-    <img alt="GitHub" title="GitHub" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-  </p>
-</div>
+## Experience Snapshot
+- **NEXTI - Software Developer** (Jan 2025 - Present)
+- **NEXTI - Front-end Developer** (Jan 2024 - Jan 2025)
+- **NEXTI - Front-end Intern** (Apr 2023 - Dec 2023)
+- **Arquivo Contabil - IT Intern** (Dec 2021 - Jul 2022)
+
+## Core Stack
+- **Frontend:** React, TypeScript, Zustand, React Query
+- **Backend:** Python, Django, Java, Node.js
+- **AI/Data:** AWS Bedrock, Pinecone (RAG), Lambda, Step Functions, prompt engineering
+- **DevOps:** Jenkins, GitHub Actions, Docker
+- **Database:** PostgreSQL, MySQL
+
+## Certifications (Curated)
+### AI and LLMs
+- MCP na Pratica: Crie Agentes e Multi-Agentes com LLMs (Udemy)
+- LangChain: Crie agents com Rag e IA Generativa (Udemy)
+- AI Automation: Build LLM Apps and AI-Agents with n8n and APIs (Udemy)
+
+### Cloud and Data
+- Engenharia, Preparacao e Visualizacao de Dados (UNISUL)
+- Python para Data Science (Alura)
+
+### Engineering and Front-end
+- React JS: testes com Jest e Testing Library (Alura)
+- React: migrando para TypeScript (Alura)
+- Docker: criando e gerenciando containers (Alura)
+
+More details: [CERTIFICATIONS.md](./CERTIFICATIONS.md)
+
+## Contact
+- LinkedIn: [linkedin.com/in/maken-da-rosa](https://www.linkedin.com/in/maken-da-rosa/)
+- GitHub: [github.com/MakenRosa](https://github.com/MakenRosa)
+- Email: [maken.cristhian@gmail.com](mailto:maken.cristhian@gmail.com)
+
