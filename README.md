@@ -1,55 +1,35 @@
-﻿# Maken Cristhian Faria da Rosa
+# Maken Rosa
 
-**Full-stack Developer + AI | LLM/RAG, AWS, React/TypeScript**
+**Desenvolvedor full-stack júnior, com foco em front-end, inteligência artificial e inovação.**
 
-I build scalable web and AI solutions focused on measurable business impact.
+Tenho quase três anos de experiência e estou ampliando minha autonomia para entregar produtos do início ao fim: entender o problema, escolher a solução, implementar, testar e acompanhar o uso.
 
-## Quick Highlights
-- Reduced time-to-interaction by **80%+** in a critical migration from AngularJS to React/TypeScript.
-- Built an AI Level 1 support assistant resolving up to **50%** of tickets before human support.
-- Kept AI inference cost under **US$15/month** while scaling to hundreds of client operations.
-- Documented and evolved **30+** design-system components to increase consistency and delivery speed.
+Trabalho principalmente com React e TypeScript. Também exploro back-end, aplicações locais e integrações com modelos de linguagem. Uso IA como ferramenta de desenvolvimento e explico as decisões, verificações e limitações dos projetos.
 
-## Featured Projects
-- [makenrosa.github.io](https://github.com/MakenRosa/makenrosa.github.io) - Professional portfolio hub.
-- [topclean](https://github.com/MakenRosa/topclean) - Business website project (production-oriented case).
-- [CRM-TCS](https://github.com/MakenRosa/CRM-TCS) - Full-stack CRM (React + Django + PostgreSQL).
-- [java-openai](https://github.com/MakenRosa/java-openai) - Java integration with OpenAI API.
-- [little-green](https://github.com/MakenRosa/little-green) - ESG-oriented web application.
-- [portfolio](https://github.com/MakenRosa/portfolio) - Front-end foundation project.
+## Projetos selecionados
 
-## Experience Snapshot
-- **NEXTI - Software Developer** (Jan 2025 - Present)
-- **NEXTI - Front-end Developer** (Jan 2024 - Jan 2025)
-- **NEXTI - Front-end Intern** (Apr 2023 - Dec 2023)
-- **Arquivo Contabil - IT Intern** (Dec 2021 - Jul 2022)
+| Projeto | O que vale observar |
+| --- | --- |
+| [Planejador de Cômodos](https://github.com/MakenRosa/planejador-comodos) · [demo](https://makenrosa.github.io/planejador-comodos/) | Geometria, interface 3D, persistência e testes com um apartamento fictício. |
+| [Apura Brasil](https://github.com/MakenRosa/apura-brasil) | Dados oficiais, mapas, cache e testes sem rede em uma aplicação local. |
+| [Fólio](https://github.com/MakenRosa/folio) | Integração desktop com Tauri e Rust, biblioteca local de PDFs e decisões de persistência. Consulte as limitações e o estado atual da CI no repositório. |
+| [Migração React + BFF](https://github.com/MakenRosa/react-bff-migration-case-study) | Estudo de caso de modernização de uma aplicação e decisões de arquitetura. |
+| [Assistente de suporte com IA](https://github.com/MakenRosa/ai-support-assistant-case-study) | Estudo de caso sobre RAG, escalonamento para atendimento humano e operação. |
+| [TermoTV](https://github.com/MakenRosa/lg-termo) | Jogo de palavras para TVs LG webOS, interação por controle remoto e armazenamento local. |
 
-## Core Stack
-- **Frontend:** React, TypeScript, Zustand, React Query
-- **Backend:** Python, Django, Java, Node.js
-- **AI/Data:** AWS Bedrock, Pinecone (RAG), Lambda, Step Functions, prompt engineering
-- **DevOps:** Jenkins, GitHub Actions, Docker
-- **Database:** PostgreSQL, MySQL
+## Contribuições open source
 
-## Certifications (Curated)
-### AI and LLMs
-- MCP na Pratica: Crie Agentes e Multi-Agentes com LLMs (Udemy)
-- LangChain: Crie agents com Rag e IA Generativa (Udemy)
-- AI Automation: Build LLM Apps and AI-Agents with n8n and APIs (Udemy)
+Alguns exemplos de pull requests aceitos:
 
-### Cloud and Data
-- Engenharia, Preparacao e Visualizacao de Dados (UNISUL)
-- Python para Data Science (Alura)
+- [BrasilAPI #831](https://github.com/BrasilAPI/BrasilAPI/pull/831)
+- [i-educar #1181](https://github.com/portabilis/i-educar/pull/1181)
+- [Open Library #13128](https://github.com/internetarchive/openlibrary/pull/13128)
+- [Ruff #26179](https://github.com/astral-sh/ruff/pull/26179)
+- [React #8488](https://github.com/reactjs/react.dev/pull/8488)
+- [MDN #44532](https://github.com/mdn/content/pull/44532)
 
-### Engineering and Front-end
-- React JS: testes com Jest e Testing Library (Alura)
-- React: migrando para TypeScript (Alura)
-- Docker: criando e gerenciando containers (Alura)
+## About me
 
-More details: [CERTIFICATIONS.md](./CERTIFICATIONS.md)
+I'm a junior full-stack developer focused on front-end engineering and practical AI applications. My projects document technical choices, testing and limitations, and I contribute to open-source projects through pull requests.
 
-## Contact
-- LinkedIn: [linkedin.com/in/maken-da-rosa](https://www.linkedin.com/in/maken-da-rosa/)
-- GitHub: [github.com/MakenRosa](https://github.com/MakenRosa)
-- Email: [maken.cristhian@gmail.com](mailto:maken.cristhian@gmail.com)
-
+[Portfólio](https://makenrosa.github.io/) · [LinkedIn](https://www.linkedin.com/in/maken-da-rosa/) · [GitHub](https://github.com/MakenRosa)
