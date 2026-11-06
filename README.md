@@ -13,8 +13,6 @@ Trabalho principalmente com React e TypeScript. Também exploro back-end, aplica
 | [Planejador de Cômodos](https://github.com/MakenRosa/planejador-comodos) · [demo](https://makenrosa.github.io/planejador-comodos/) | Geometria, interface 3D, persistência e testes com um apartamento fictício. |
 | [Apura Brasil](https://github.com/MakenRosa/apura-brasil) | Dados oficiais, mapas, cache e testes sem rede em uma aplicação local. |
 | [Fólio](https://github.com/MakenRosa/folio) | Integração desktop com Tauri e Rust, biblioteca local de PDFs e decisões de persistência. Consulte as limitações e o estado atual da CI no repositório. |
-| [Migração React + BFF](https://github.com/MakenRosa/react-bff-migration-case-study) | Estudo de caso de modernização de uma aplicação e decisões de arquitetura. |
-| [Assistente de suporte com IA](https://github.com/MakenRosa/ai-support-assistant-case-study) | Estudo de caso sobre RAG, escalonamento para atendimento humano e operação. |
 | [TermoTV](https://github.com/MakenRosa/lg-termo) | Jogo de palavras para TVs LG webOS, interação por controle remoto e armazenamento local. |
 
 ## Contribuições open source
